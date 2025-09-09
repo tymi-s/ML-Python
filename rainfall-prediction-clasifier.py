@@ -286,6 +286,7 @@ plt.show()
 
 
 """
+Comperition:
 Acuracy:
 - RandomForestClassifier: 84%
 - LogisticRegression: 83%
